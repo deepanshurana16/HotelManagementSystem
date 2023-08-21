@@ -1,4 +1,4 @@
-# HotelManagementSystemt🏨
+# HotelManagementSystem🏨
 
 A simple hotel management system implemented in C++ that allows administrators to input available quantities of rooms and items in the food menu. Users can book rooms and order food items, while the system keeps track of quantities sold and the total collection for the day.
 
